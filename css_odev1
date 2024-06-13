@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Tütün Kolonyası - Anasayfa</title>
+    </head>
+    <body style="background-color:#5988FF">
+        <h1 style="color:#FD98FB">Tütün Kolonyası</h1>
+        
+        <nav>
+            <a href="index.html">Anasayfa</a>
+            <a href="yapim.html">Kolonya Yapımı</a>
+        </nav>
+
+        <p>Tütün Kolonyası diyarı Türkiye'den herkese selamlar!</p>
+        
+        <img src =  "images/kolonya.jpeg"
+    <body> 
+</html>
